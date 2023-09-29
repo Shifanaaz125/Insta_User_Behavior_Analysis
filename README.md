@@ -12,3 +12,11 @@ This project analyzes user behavior on Instagram to gain insights into user enga
 
 # 3. Conclusion
 This Instagram user behavior analysis project provides valuable insights into account authenticity, user characteristics, and their impact on fake/real accounts. The project helps identify trends and patterns that can assist in understanding user behavior on the platform and contribute to enhancing user experience and privacy.
+
+# 4. Request for Feedback
+Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
+
+**Data preprocessing:**  Did I miss any critical steps?
+**Correct Method:** Is the chosen analytical approach appropriate for this problem?
+**Clarity:** Is my explanation clear and easy to follow?
+Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
