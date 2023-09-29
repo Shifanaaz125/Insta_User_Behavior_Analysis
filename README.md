@@ -1,5 +1,6 @@
 # Insta_Fake_User_Behavior_Analysis
-![image](https://github.com/Shifanaaz125/Insta_User_Behavior_Analysis/assets/120267469/22eba93b-f2b0-481d-a7e9-7add1eebed27)
+![image](https://github.com/Shifanaaz125/Insta_User_Behavior_Analysis/assets/120267469/be9d1a11-40ca-49e4-a9da-60f09052fbad)
+
 
 
 # 1. Problem Statement
