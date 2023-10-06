@@ -1,7 +1,7 @@
 # Insta_Fake_User_Behavior_Analysis
 ![image](https://github.com/Shifanaaz125/Insta_User_Behavior_Analysis/assets/120267469/be9d1a11-40ca-49e4-a9da-60f09052fbad)
 
-fff
+
 
 # 1. Problem Statement
 This project analyzes user behavior on Instagram to gain insights into user engagement, preferences, and overall experience. Key areas include user engagement metrics, content analysis, demographics, follower growth/churn, influencer analysis, brand advocacy, story engagement, page factors, and user journey analysis. Privacy and ethical considerations align with Instagram's terms of service and data usage policies.
